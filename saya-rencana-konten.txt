@@ -2,6 +2,8 @@ RENCANA KONTEN SAYA
 - Astronomi
 * Tata Surya
 * Galaksi
+  ^ Galaksi sombrero
 - Kalkulus
+  ^ Turunan
 - Fisika Kuantum
-- Kimia Organik
+
