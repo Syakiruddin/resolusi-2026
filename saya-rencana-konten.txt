@@ -2,7 +2,8 @@ RENCANA KONTEN SAYA
 - Astronomi
 * Tata Surya
 * Galaksi
-  Bima sakti
+  ^ Bima sakti
+  ^ Andromeda
 - Kalkulus
 - Fisika Kuantum
 - Kimia Organik
